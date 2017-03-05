@@ -8,7 +8,11 @@ Participate to one or more open source project.
 
 Find a golang related backend job in 2018? or later.
 
+有价值的项目
+---
+Shadowsocks后台管理程序 - 三个月开发，最终目的是可以卖账号，作为独立的系统运行。
 
 
+---
 Need to give it the exact DeadLine.
 SMART principle.
