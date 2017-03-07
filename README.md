@@ -12,6 +12,10 @@ Find a golang related backend job in 2018? or later.
 ---
 Shadowsocks后台管理程序 - 三个月开发，最终目的是可以卖账号，作为独立的系统运行。
 需要Bootstrap AminLte作为后台管理？
+* 注册-登录
+* 填写密码-付款购买
+* 生成-端口
+
 
 Airdisk-cms
 ---
