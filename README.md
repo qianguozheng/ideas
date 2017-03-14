@@ -1,6 +1,11 @@
 # ideas
 Record My Ideas of what I wanted to do
 
+Boring
+---
+Having nothing to do makes me annoying, it makes you suspect everything.
+
+
 Golang Project
 ---
 
