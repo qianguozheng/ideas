@@ -32,3 +32,4 @@ Airdisk-cms
 ---
 Need to give it the exact DeadLine.
 SMART principle.
+Deep Thinking about anything worth thinking.
